@@ -1,0 +1,9 @@
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\bin\Debug\Asg2-sxk162731.exe.config
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\bin\Debug\Asg2-sxk162731.exe
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\bin\Debug\Asg2-sxk162731.pdb
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2_sxk162731.Form1.resources
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2_sxk162731.Properties.Resources.resources
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2-sxk162731.csproj.GenerateResource.Cache
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2-sxk162731.exe
+c:\users\meetd\onedrive\documents\visual studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2-sxk162731.pdb
+C:\Users\meetd\OneDrive\Documents\Visual Studio 2015\Projects\Asg2-sxk162731\Asg2-sxk162731\obj\Debug\Asg2-sxk162731.csprojResolveAssemblyReference.cache
