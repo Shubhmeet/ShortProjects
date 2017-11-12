@@ -1,0 +1,19 @@
+Help can be clicked anytime ,to seek help
+
+Select file
+Specify the file path using Browse button or type the file path.File should 
+be a text file , otherwise an a warning will be given.
+----------------------------------------------------------------------------
+Search Word
+Specify the word to be searched in the textbox and hit Search button.Anytime 
+you can cancel the search using Cancel button.ProgressBar represents the 
+percentage of file searched.
+----------------------------------------------------------------------------
+Save the Search Results 
+Save the search results in a txt, csv ,docx or anyother required format.
+----------------------------------------------------------------------------
+Clearing all contents 
+Use clear button to clear all the textbox, and listview.
+----------------------------------------------------------------------------
+For any further issues or queries contact: support@abc.com
+
